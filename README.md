@@ -32,7 +32,7 @@ Manage your daily tasks efficiently with a clean user interface and **local stor
 ## 🛠️ Setup & Installation
 
 ### 1. Clone the Repository
-cd NameOfTheRepo
-npm install
-npx expo start
-Now just scan the QR code from expo go App, or manually type the URL
+cd NameOfTheRepo <br>
+npm install <br>
+npx expo start <br>
+Now just scan the QR code from expo go App, or manually type the URL <br>
